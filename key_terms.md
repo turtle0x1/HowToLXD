@@ -36,7 +36,7 @@ virtual machines!
 ## LXC (Again)
 After `LXD` was written a new command line program was needed to interact
 with the `LXD` REST API, a decision was made above the developers head to name
-this tool `LXC`.
+this program `LXC`.
 
 This could cause a significant ammount of confusion as the diffence between
 the `C` application `LXC` and the `GO` `LXC` application is vast.
