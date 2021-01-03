@@ -54,4 +54,4 @@ application which uses commands like;
 These commands are thinly veild `HTTP` requests, programs like [LXDMosaic](https://github.com/turtle0x1/LxdMosaic)
 are alternatives to the `lxc` command.
 
-*Currently no publicly available graphical interface (LxdMosaic included) is as feature complete as the `LXC` tool!*
+*Currently no publicly available graphical interface (LXDMosaic included) is as feature complete as the `LXC` tool!*
