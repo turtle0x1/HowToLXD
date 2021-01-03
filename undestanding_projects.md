@@ -14,7 +14,7 @@ This segragation is what enables `LXD` & `LXDMosaic` to limit `user/s` access.
 
 *[The `LXD` server you initilazed in the last step](undestanding_lxd.html) gives you one server with one project `default`.*
 
-*This project is where everthing is created if the user is not using / assigned to another project*
+*The `default` project is where everthing is created if the user is not using / restricted to another project*
 
 *Both `LXD` & `LXDMosaic` both support segragrating an `LXD` server by project/s.*
 
