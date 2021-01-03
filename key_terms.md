@@ -20,7 +20,7 @@ as a result you will still some people making reference to commands like;
 These commands wont apply for any documentation found on this site as we
 interact with the modern `LXD`!
 
-That being said some projects like Proxmox make the decision to directly
+That being said some projects like [Proxmox](https://proxmox.com/) make the decision to directly
 interact with this application, but they are the exception not the norm!
 
 ## LXD
