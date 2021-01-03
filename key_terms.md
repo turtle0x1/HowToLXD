@@ -37,17 +37,17 @@ application `LXC` to offer an easy and convineniat way to manage containers &
 virtual machines!
 
 ## LXC - GO Program
-After `LXD` was written a new command line program was needed to interact
+After [LXD](#lxd) was written a new command line program was needed to interact
 with the `LXD` REST API, a decision was made above the developers head to name
 this program `LXC`.
 
 This could cause a significant ammount of confusion as the diffence between
 the `C` application `LXC` and the `GO` `LXC` application is vast.
 
- - `LXC` the `C` application is responsible for running your containers
+ - [LXC](#LXC%20-%20C%20Program) the `C` application is responsible for running your containers
  - `LXC` the `GO` application issues `HTTP` requests to one or more `LXD` instances (much like searching for google.com in your browser)
 
-Most people using LXC / LXD will be used to running to the modern `GO` `LXC`
+Most people using `LXC` / `LXD` will be used to running to the modern `GO` `LXC`
 application which uses commands like;
 
  - `lxc list`
@@ -57,7 +57,7 @@ application which uses commands like;
 These commands are thinly veild `HTTP` requests, programs like [LXDMosaic](https://github.com/turtle0x1/LxdMosaic)
 are alternatives to the `lxc` command.
 
-*Currently no publicly available graphical interface (LXDMosaic included) is as feature complete as the `LXC` tool!*
+*Currently no publicly available graphical interface (LXDMosaic included) is as feature complete as the `lxc` (- Go) program!*
 
 ### Next
 [Lets undestand LXD Architecture!](undestanding_lxd.html)
