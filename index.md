@@ -1,4 +1,3 @@
-### About
 LXD is fantastic product, but its documentation is lacking any clear defined work
 flows.
 
@@ -14,9 +13,9 @@ Aiming to cover;
  - Anything else that comes to mind
 
 This blog / documentation will be split between using [LXD](https://github.com/lxc/lxd)
-and my own software [LXDMosaic](https://github.com/turtle0x1/LxdMosaic)
+and **my own** software [LXDMosaic](https://github.com/turtle0x1/LxdMosaic)
 
-### Support
+## Support
 
 Please disable your ad blocker, I know ads are;
 
@@ -26,5 +25,5 @@ Please disable your ad blocker, I know ads are;
 
 But without them its hard to support open source!
 
-### Jump In
-First lets [clear up some key terms & differences in the LXD ecosphere!](key_terms.html)
+## Jump In
+First lets [clear up some key terms & differences in the LXC / LXD ecosphere!](key_terms.html)
