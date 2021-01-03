@@ -4,7 +4,7 @@ page.title: Undestanding Projects
 ---
 # Understanding Projects
 
-`LXD` projecs are very similar to Google's!
+`LXD` projects are very similar to Google's!
 
 You can have containers, virtual machines, storage, networks ETC segragated by `project/s`.
 
@@ -23,6 +23,8 @@ This segragation is what enables `LXD` & `LXDMosaic` to limit `user/s` access.
 Lets imagine we have 2 teams, `dev` & `pod`
 
 We have two options to create the projects for the teams here;
+
+*Either way you create two projects, but depending on your choice of interface the documentation will follow that interface* 
 
  1. Use `lxc` (CLI)
    -  (TODO link to create projects with `lxc`)
