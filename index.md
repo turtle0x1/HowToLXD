@@ -8,8 +8,9 @@ best utilize LXD in certain situations.
 
 Aiming to cover;
 
- - Application Local Development
- - Application Production Deployments
+ - Understanding LXD Architecture (WIP)
+ - Application Local Development (TODO)
+ - Application Production Deployments (TODO)
  - Anything else that comes to mind
 
 This blog / documentation will be split between using [LXD](https://github.com/lxc/lxd)
