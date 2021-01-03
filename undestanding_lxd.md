@@ -29,7 +29,8 @@ Lets assume you now have a single standalone `LXD` server running, you server
 looks something like this;
 
 *One server with a `project` called "default"*
-<img src="_pics/1.png">
+
+<img src="assets/img/1.png">
 
 ### Next
 [Lets undestand LXD Projects!](undestanding_projects.html)

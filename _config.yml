@@ -4,3 +4,9 @@ title: "How To LXD"
 
 github:
   is_project_page: false
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
