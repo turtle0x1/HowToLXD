@@ -5,7 +5,7 @@ page.title: Undestanding LXD
 
 `LXD` is very similar to Google's ecosytem.
 
-*If you haven't been exposed to Google's ecosystem don't worry,  I hope to explain it here!*
+*If you haven't been exposed to Google's ecosystem don't worry, follow on!*
 
 Lets look at one stadalone `LXD` server
 

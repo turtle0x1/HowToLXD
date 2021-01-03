@@ -23,7 +23,7 @@ Please disable your ad blocker, I know ads are;
  - spyware
  - annoying
 
-But without support its hard to maintain resources!
+But without them its hard to support open source!
 
 ### Jump In
 First lets [clear up some key terms & differences in the LXD ecosphere!](key_terms.html)
