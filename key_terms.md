@@ -1,6 +1,7 @@
 ---
-title: Key Terms
+page_title: Key Terms
 page.title: Key Terms
+topnav_title: Key Terms
 ---
 ## LXD Key Terms
 Like all software `LXC` & `LXD` has evolved over time, its important to understand
